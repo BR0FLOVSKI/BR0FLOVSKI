@@ -17,7 +17,7 @@
 <details p align="center">
 <summary></summary>
 
-$\color{#C70007}{\textsf{NOMINATIONS}}$<br>
+$\color{#C70007}{\textsf{MY TITLES}}$<br>
 
 
 [@pt-walk-of-fame](https://github.com/pt-walk-of-fame) - in the list of prettiest ponies

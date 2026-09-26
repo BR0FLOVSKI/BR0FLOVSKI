@@ -1,8 +1,27 @@
 <img width="2048" height="1536" alt="Untitled37" src="https://github.com/user-attachments/assets/de095323-374d-480c-82ff-3ce3428bf1db" />
 ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ✦ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ
-THIS IS STILL A WIP!!!!!!!!!!
+<details p align="center">
+<summary></summary>
+ 
+ $\color{#C70007}{\textsf{ERIC / RAY}}$<br>
+  
+  he/him
+
+  w2i - mostly offtab / C+H freely
+  
+  eric cartman fann
+  
+<img width="1477" height="200" alt="orig_gif 1,477×200 pixels" src="https://github.com/user-attachments/assets/e8c6cb52-f9b0-4e67-9939-a9cd1d887d14" />
+
+
 
 ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ✦ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ
+
+</details>
+  
+</p>
+
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3eovs7oaa5ibqlithbtb4jf5i&redirect=true">

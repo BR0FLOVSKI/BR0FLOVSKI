@@ -13,13 +13,14 @@
   
 <img width="1477" height="200" alt="orig_gif 1,477×200 pixels" src="https://github.com/user-attachments/assets/e8c6cb52-f9b0-4e67-9939-a9cd1d887d14" />
 
+
 <details p align="center">
 <summary></summary>
 
 $\color{#C70007}{\textsf{NOMINATIONS}}$<br>
 
 
-@pt-walk-of-fame - in the list of prettiest ponies
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame) - in the list of prettiest ponies
 
 
 

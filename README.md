@@ -1,3 +1,4 @@
-<p align="center"> <img width="736" height="245" alt="Untitled23" src="https://github.com/user-attachments/assets/d4fab23b-5ade-4b60-bb8e-2bdfb046415d" />
+<img width="2048" height="1536" alt="Untitled37" src="https://github.com/user-attachments/assets/de095323-374d-480c-82ff-3ce3428bf1db" />
+ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ✦ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ
 
- <p align="center"> still a wip ok~~
+still a wip...

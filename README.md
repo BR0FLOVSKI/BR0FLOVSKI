@@ -11,6 +11,12 @@
   
   eric cartman fann
   
+<img width="24" height="24" alt="tumblr_f250bf024e672d17ecbeccc9dec9c1b4_7cb6c59c_75" src="https://github.com/user-attachments/assets/08d203bf-e4b6-4d62-b77a-6d4cb7b37d4a" />
+
+<img width="24" height="24" alt="tumblr_73d3d06b4f0f7356d8d82cbce9ef291b_f0b7913a_75" src="https://github.com/user-attachments/assets/fdce28b1-6c93-412f-a040-5b788f052338" />
+
+.
+  
 <img width="1477" height="200" alt="orig_gif 1,477×200 pixels" src="https://github.com/user-attachments/assets/e8c6cb52-f9b0-4e67-9939-a9cd1d887d14" />
 </details>
 

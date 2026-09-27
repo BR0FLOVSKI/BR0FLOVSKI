@@ -31,9 +31,9 @@ $\color{#C70007}{\textsf{MY TITLES}}$<br>
 <img width="1280" height="77" alt="image-2024-05-23-235843206" src="https://github.com/user-attachments/assets/f732681b-d71c-4c3b-8a93-b8420f0c0dea" />
 </details>
 
-<p align="center">
+<p align="center"><p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3eovs7oaa5ibqlithbtb4jf5i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3eovs7oaa5ibqlithbtb4jf5i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=a30000&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l3eovs7oaa5ibqlithbtb4jf5i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=c20000">
   </a>
 </p>
 

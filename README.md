@@ -30,6 +30,10 @@ $\color{#C70007}{\textsf{MY TITLES}}$<br>
   </a>
 </p>
 
+<img width="1271" height="81" alt="Tumblr-l-692414957288588" src="https://github.com/user-attachments/assets/f2deab80-c7bf-411d-9a3d-33019bdd7a8a" />
+
+.
+
 <p align="center">
 <img width="150" height="20" alt="tumblr_8eae072c2d2e37cf90b3894ffc38d774_306dae86_250" src="https://github.com/user-attachments/assets/6adc36c2-0782-4f64-bff9-ccf4e0b7b669" />
  
@@ -85,4 +89,7 @@ $\color{#C70007}{\textsf{MY TITLES}}$<br>
 <img width="99" height="56" alt="IMG_3661" src="https://github.com/user-attachments/assets/81f7ff02-ec4a-49b8-bfb9-ab2526e02cc0" />
 
 <img width="99" height="56" alt="tumblr_efc61e6e25ea0d8057c5c8cbee444adc_269e5e11_100" src="https://github.com/user-attachments/assets/b98cfa16-d2a1-49dc-9bce-be5aab74086f" />
+
+<img width="1000" height="100" alt="nhhawe" src="https://github.com/user-attachments/assets/5ecfedda-ed0e-41cf-a638-06255954bfbe" />
+
 

@@ -1,5 +1,5 @@
 <img width="2048" height="1536" alt="Untitled37" src="https://github.com/user-attachments/assets/de095323-374d-480c-82ff-3ce3428bf1db" />
-ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ✦ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ
+<img width="1280" height="77" alt="image-2024-05-23-235843206" src="https://github.com/user-attachments/assets/f732681b-d71c-4c3b-8a93-b8420f0c0dea" />
 <details p align="center">
 <summary></summary>
  
@@ -24,7 +24,8 @@ $\color{#C70007}{\textsf{MY TITLES}}$<br>
 
 
 
-ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ✦ꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀꕀ
+<img width="1280" height="77" alt="image-2024-05-23-235843206" src="https://github.com/user-attachments/assets/f732681b-d71c-4c3b-8a93-b8420f0c0dea" />
+<details p align="center">
 </details>
   
 </p>

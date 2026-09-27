@@ -9,7 +9,7 @@
 
   w2i - mostly offtab / C+H freely
   
-  eric cartman fann
+  PL / ENG <3
   
 <img width="24" height="24" alt="tumblr_f250bf024e672d17ecbeccc9dec9c1b4_7cb6c59c_75" src="https://github.com/user-attachments/assets/08d203bf-e4b6-4d62-b77a-6d4cb7b37d4a" />
 
